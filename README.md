@@ -10,6 +10,8 @@ The frontend boilerplate was created using `vite`.
 
 ## Run the code
 
+**NOTE**: change the fetch request url in the `script.js` file to `http://localhost:5000` to run the app locally.
+
 Start the frontend from inside the `client` folder: `$ npm start dev`.
 
 Start the backend from inside the `server` folder: `$ npm start server`.
